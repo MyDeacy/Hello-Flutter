@@ -1,2 +1,2 @@
 # Hello-Flutter
-Fulutterへご挨拶
+Flutterへご挨拶
